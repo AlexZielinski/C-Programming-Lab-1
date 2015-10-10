@@ -1,5 +1,7 @@
 # C-Programming-Lab-1
 
+C programming lab 1 for COMP 2510
+
 4 functions to implement.
 
 ----------------------------------------------------------------------------------------
